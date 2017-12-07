@@ -1,2 +1,4 @@
 # conway-game-of-life-c-language-2015
-project as 1st year undergrad
+
+This project of 2 weeks was done as an 1st year undergraduate student. It was made in C language and SDL2 API.
+
